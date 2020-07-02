@@ -28,7 +28,7 @@
 		<jackson-databind.version>2.9.9</jackson-databind.version>
 		<hibernate.version>5.4.3.Final</hibernate.version>
 		<flyway.version>5.2.4</flyway.version>
-		<mysql-connector.version>5.1.47</mysql-connector.version>
+		<mysql-connector.version>8.0.16</mysql-connector.version>
 		<javafaker.version>0.18</javafaker.version>
 		<spring-data-jpa.version>2.1.9.RELEASE</spring-data-jpa.version>
 		<c3p0.version>0.9.5.4</c3p0.version>
