@@ -25,7 +25,7 @@
 		<thymeleaf-dialect.version>2.4.1</thymeleaf-dialect.version>
 		<log4j.version>2.11.2</log4j.version>
 		<jcl-slf4j.version>1.7.26</jcl-slf4j.version>
-		<jackson-databind.version>2.9.9</jackson-databind.version>
+		<jackson-databind.version>2.12.1</jackson-databind.version>
 		<hibernate.version>5.4.3.Final</hibernate.version>
 		<flyway.version>5.2.4</flyway.version>
 		<mysql-connector.version>5.1.47</mysql-connector.version>
